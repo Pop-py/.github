@@ -22,7 +22,7 @@
 </summary>
 
  <details>
-  <summary>📱 FRONT 📱</summary>
+  <summary>🐰 FRONT 🐰</summary>
   <div>
 
 | <img src="" width="150px" /> | <img src="" width="150px" /> |
@@ -33,7 +33,7 @@
   </details>
 
  <details>
-  <summary>👩‍💻 BACK 👩‍💻</summary>
+  <summary>🐢 BACK 🐢</summary>
   <div>
 
 | <img src="https://avatars.githubusercontent.com/u/112850550?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/91649302?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/134580213?v=4" width="150px" /> |
