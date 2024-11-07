@@ -9,9 +9,9 @@
 
 </summary>
 
-| <img src="https://avatars.githubusercontent.com/u/112850550?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/91649302?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/134580213?v=4" width="150px" /> |
-| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|                       [서희정](https://github.com/Hxxjeong)                       |                       [송민형](https://github.com/minyongs)                        |                      [윤혜원](https://github.com/oniwon)                       |
+| <img src="https://avatars.githubusercontent.com/u/112850550?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/91649302?v=4" width="150px" />  | <img src="https://avatars.githubusercontent.com/u/187611980?v=4" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/134580213?v=4" width="150px" /> |
+| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|                       [서희정](https://github.com/Hxxjeong)                       |                       [송민형](https://github.com/minyongs)                        |                      [신민경](https://github.com/joannesla)                       |                      [윤혜원](https://github.com/oniwon)                       |
 
 <summary>
 
@@ -47,9 +47,9 @@
   <summary>❤️‍🔥 DESIGN ❤️‍🔥 </summary>
   <div>
 
-| <img src="" width="150px" /> |
+| <img src="https://avatars.githubusercontent.com/u/187611980?v=4" width="150px" /> |
 | :-------------------------------------------------------------------------------: |
-|                       temp                     |
+|                       [신민경](https://github.com/joannesla)                     |
 
   </div>
   </details>
