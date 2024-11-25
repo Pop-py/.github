@@ -1,7 +1,7 @@
-<!-- main image 넣을 공간 -->
-<!--<img src="" alt="banner" />-->
+<!-- main image -->
+<img src="https://cdn.discordapp.com/attachments/1303232654111674409/1309082679848861736/Poppy.png?ex=67458fc0&is=67443e40&hm=770648a01f346fb8dd290b475d8ddb39e1cbb60f9e6e491b3e5049447604c5cd&" alt="banner" />
 
-<h1 style="color: black"> Poppy! - 오늘은 어디서 Pop? Poppy가 알려줄게!</h1>
+<h1 style="color: black"> 오늘은 어디서 Pop? Poppy가 알려줄게!</h1>
 
 <h3 style="color: black">
   MEMBER
